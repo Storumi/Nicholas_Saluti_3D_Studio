@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b286fc326424848feb063d76cb623941
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _albedo: {instanceID: 0}
+  - _normalMap: {instanceID: 0}
+  - _displacementMap: {instanceID: 0}
+  - _roughness: {instanceID: 0}
+  - _IBL: {fileID: 8900000, guid: f9b2498a50d5db346955c37c0d015784, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
