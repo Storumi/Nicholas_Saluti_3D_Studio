@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Desert Sand
+  m_Name: Cave Wall
   m_Shader: {fileID: 4800000, guid: 1fd9dddbaa37d41aa91e3caee4cc86ca, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -28,29 +28,29 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _albedo:
-        m_Texture: {fileID: 2800000, guid: a9eb0d2c830e0d24f8d617dc061975d2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 80f23ae58c053a84d9e40d2b0e9a8e1b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _displacementMap:
-        m_Texture: {fileID: 2800000, guid: caa7b50bc2470e5499a6e669d3d150de, type: 3}
+        m_Texture: {fileID: 2800000, guid: 040058ce22b323144b9ab1bbe424ce0a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _displacementSubmap:
-        m_Texture: {fileID: 2800000, guid: 0805246a0ea43a84a91cee99070e8496, type: 3}
+        m_Texture: {fileID: 2800000, guid: a9eb0d2c830e0d24f8d617dc061975d2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _normalMap:
-        m_Texture: {fileID: 2800000, guid: 4aee8d551636ad943ad0a61e159d80c5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 80f23ae58c053a84d9e40d2b0e9a8e1b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _displacementIntensity: 0.194
-    - _fresnelPower: 4.2
-    - _gloss: 0.23
-    - _normalIntensity: 0.518
-    - _reflectivity: 0.11
-    - _submapScale: 100
-    - _toggle: 0.482
+    - _displacementIntensity: 0.03
+    - _fresnelPower: 5.3
+    - _gloss: 0.61
+    - _normalIntensity: 0.11
+    - _reflectivity: 0.29
+    - _submapScale: 50
+    - _toggle: 0.09
     m_Colors: []
   m_BuildTextureStacks: []
