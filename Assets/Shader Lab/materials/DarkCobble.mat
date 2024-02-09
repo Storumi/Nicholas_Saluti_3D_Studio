@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Desert Sand
+  m_Name: DarkCobble
   m_Shader: {fileID: 4800000, guid: 1fd9dddbaa37d41aa91e3caee4cc86ca, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,33 +24,33 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _IBL:
-        m_Texture: {fileID: 8900000, guid: 7d1040c1d6b3da144addcf8b08c436df, type: 3}
+        m_Texture: {fileID: 8900000, guid: ea9836571d7e0ff4293f5cce08662073, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _albedo:
-        m_Texture: {fileID: 2800000, guid: a9eb0d2c830e0d24f8d617dc061975d2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 040ec0b4adfbf8c45b74643269ed522e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _displacementMap:
-        m_Texture: {fileID: 2800000, guid: caa7b50bc2470e5499a6e669d3d150de, type: 3}
+        m_Texture: {fileID: 2800000, guid: cfb3f333f8b16a54b83e9fcec00ddf44, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _displacementSubmap:
-        m_Texture: {fileID: 2800000, guid: 0805246a0ea43a84a91cee99070e8496, type: 3}
+        m_Texture: {fileID: 2800000, guid: f619af6cff2cec641b2d1216be0d1e25, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _normalMap:
-        m_Texture: {fileID: 2800000, guid: 4aee8d551636ad943ad0a61e159d80c5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9bdadc205ecff3845ae3bcae3b35f303, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _displacementIntensity: 0.194
-    - _fresnelPower: 4.2
-    - _gloss: 0.231
-    - _normalIntensity: 0.518
-    - _reflectivity: 0.11
-    - _submapScale: 100
-    - _toggle: 0.482
+    - _displacementIntensity: 0
+    - _fresnelPower: 4.7
+    - _gloss: 0.16
+    - _normalIntensity: 0.61
+    - _reflectivity: 0.39
+    - _submapScale: 1
+    - _toggle: 0
     m_Colors: []
   m_BuildTextureStacks: []

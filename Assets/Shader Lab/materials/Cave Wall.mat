@@ -28,11 +28,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _albedo:
-        m_Texture: {fileID: 2800000, guid: 80f23ae58c053a84d9e40d2b0e9a8e1b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 040058ce22b323144b9ab1bbe424ce0a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _displacementMap:
-        m_Texture: {fileID: 2800000, guid: 040058ce22b323144b9ab1bbe424ce0a, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _displacementSubmap:
@@ -45,12 +45,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _displacementIntensity: 0.03
-    - _fresnelPower: 5.3
-    - _gloss: 0.61
-    - _normalIntensity: 0.11
-    - _reflectivity: 0.29
+    - _displacementIntensity: 0
+    - _fresnelPower: 6.06
+    - _gloss: 0.094
+    - _normalIntensity: 1
+    - _reflectivity: 0.101
     - _submapScale: 50
-    - _toggle: 0.09
+    - _toggle: 0
     m_Colors: []
   m_BuildTextureStacks: []
