@@ -45,11 +45,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _displacementIntensity: 0.194
-    - _fresnelPower: 4.2
-    - _gloss: 0.231
-    - _normalIntensity: 0.518
-    - _reflectivity: 0.11
+    - _displacementIntensity: 0.12
+    - _fresnelPower: 3.5
+    - _gloss: 0.22
+    - _normalIntensity: 0.9
+    - _reflectivity: 0.21
     - _submapScale: 100
     - _toggle: 0.482
     m_Colors: []
