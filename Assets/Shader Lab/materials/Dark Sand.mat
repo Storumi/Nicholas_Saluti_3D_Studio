@@ -45,7 +45,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _displacementIntensity: 0.194
+    - _displacementIntensity: 0.07
     - _fresnelPower: 2.47
     - _gloss: 0
     - _normalIntensity: 0.518
