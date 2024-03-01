@@ -23,7 +23,7 @@ public class FootstepNoiseScript : MonoBehaviour
     }
     private void Awake()
     {
-       SoundSystem.instance.PlaySound("Crunch");
+       //SoundSystem.instance.PlaySound("Crunch");
     }
     private void Update()
     {
